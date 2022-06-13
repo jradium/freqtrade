@@ -33,6 +33,7 @@ orjson==3.7.1
 # Notify systemd
 sdnotify==0.3.2
 
+marketprofile
 # API Server
 fastapi==0.78.0
 uvicorn==0.17.6
